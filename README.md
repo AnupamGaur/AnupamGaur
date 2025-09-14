@@ -1,18 +1,54 @@
-## Hi there 👋
+# Hi there! 👋 I'm Anupam Gaur
 
-<!--
-**AnupamGaur/AnupamGaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer & Full-Stack Developer** | Building intelligent systems and scalable applications
 
-Here are some ideas to get you started:
+📍 Gurugram, India 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **B.E. Computer Science** (2020-2024) 
+- 💡 Passionate about **AI/ML, Full-Stack Development, and Real-time Systems**
+- 🔥 Reduced fraudulent transactions by **90%** using AI agents
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+## 💼 Experience Highlights
+- Built **8+ AI agents** using LangChain & OpenAI APIs
+- Developed **RAG system** with FastAPI & PostgreSQL
+- Created **IP-based fraud detection** with Spring Boot & Kafka
+- Built **real-time meeting assistant** with React.js & LangGraph
+- Implemented **WebSocket streaming** for live AI responses
+- Integrated **WebRTC** for browser tab sharing & audio transcription
+- Developed **RESTful APIs** with Spring Boot
+- Built **event-driven architecture** using Kafka & PostgreSQL
+
+## 🛠️ Tech Stack
+```
+Languages:     Java | Python | JavaScript | TypeScript | SQL
+Backend:       Spring Boot | FastAPI | Node.js | Express.js
+AI/ML:         LangChain | LangGraph | OpenAI APIs | ChromaDB
+Frontend:      React.js | Next.js | HTML/CSS
+Databases:     PostgreSQL | MongoDB | Redis
+Cloud/DevOps:  AWS | Azure | Docker | Kafka
+Real-time:     WebSocket | WebRTC | Protobuf
+```
+
+<!-- ## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)-->
+
+## 🎯 Featured Projects
+- 🤖 **Multi-Agent AI System** - RAG-powered fraud detection
+- 💬 **Real-time Meeting Assistant** - WebSocket + AI streaming
+- 📦 **Smart Inventory Manager** - Full-stack with AWS integration
+- ⚖️ **Legal AI Assistant** - Constitutional law chatbot
+- 🗺️ **Live Location Tracker** - WebSocket broadcasting system
+
+## 🏆 Achievements
+- 📉 **90% reduction** in L1 fraudulent transactions
+- 🏗️ Built **8+ production AI agents**
+- 🚀 **Real-time streaming** architecture implementation
+- 🔄 **Event-driven systems** with Kafka integration
+
+## 📜 Certifications
+- Meta React Basics (Coursera) - Dec 2023
+- Meta Programming with JavaScript (Coursera) - Nov 2023
+
+---
+⚡ *Always excited to collaborate on innovative AI projects and scalable systems!*
