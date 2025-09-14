@@ -9,7 +9,7 @@
 - 💡 Passionate about **AI/ML, Full-Stack Development, and Real-time Systems**
 - 🔥 Reduced fraudulent transactions by **90%** using AI agents
 
-## 💼 Experience Highlights
+<!--## 💼 Experience Highlights
 - Built **8+ AI agents** using LangChain & OpenAI APIs
 - Developed **RAG system** with FastAPI & PostgreSQL
 - Created **IP-based fraud detection** with Spring Boot & Kafka
@@ -17,7 +17,7 @@
 - Implemented **WebSocket streaming** for live AI responses
 - Integrated **WebRTC** for browser tab sharing & audio transcription
 - Developed **RESTful APIs** with Spring Boot
-- Built **event-driven architecture** using Kafka & PostgreSQL
+- Built **event-driven architecture** using Kafka & PostgreSQL-->
 
 ## 🛠️ Tech Stack
 ```
