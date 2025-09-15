@@ -46,9 +46,5 @@ Real-time:     WebSocket | WebRTC | Protobuf
 - 🚀 **Real-time streaming** architecture implementation
 - 🔄 **Event-driven systems** with Kafka integration
 
-## 📜 Certifications
-- Meta React Basics (Coursera) - Dec 2023
-- Meta Programming with JavaScript (Coursera) - Nov 2023
-
 ---
 ⚡ *Always excited to collaborate on innovative AI projects and scalable systems!*
