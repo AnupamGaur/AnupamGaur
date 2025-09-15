@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Anupam Gaur
 
-**AI Engineer & Full-Stack Developer** | Building intelligent systems and scalable applications
+**AI Engineer & Full-Stack Developer** 
 
 📍 Gurugram, India 
 
 ## 🚀 About Me
-- 🎓 **B.E. Computer Science** (2020-2024) 
+- 🎓 **B.E. Computer Science** 
 - 💡 Passionate about **AI/ML, Full-Stack Development, and Real-time Systems**
 - 🔥 Reduced fraudulent transactions by **90%** using AI agents
 
