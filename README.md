@@ -5,9 +5,7 @@
 📍 Gurugram, India 
 
 ## 🚀 About Me
-- 🎓 **B.E. Computer Science** 
-- 💡 Passionate about **AI/ML, Full-Stack Development, and Real-time Systems**
-- 🔥 Reduced fraudulent transactions by **90%** using AI agents
+- 💡 Passionate about **Engineering robust  and scalable systems**
 
 <!--## 💼 Experience Highlights
 - Built **8+ AI agents** using LangChain & OpenAI APIs
@@ -33,7 +31,7 @@ Real-time:     WebSocket | WebRTC | Protobuf
 <!-- ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)-->
 
-## 🎯 Featured Projects
+## 🎯 Projects
 - 🤖 **Multi-Agent AI System** - RAG-powered fraud detection
 - 💬 **Real-time Meeting Assistant** - WebSocket + AI streaming
 - 📦 **Smart Inventory Manager** - Full-stack with AWS integration
